@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## --------------------------------------------------------------------------------
 ## This function creates a special matrix object that 
 ## 1. provides a setter of the matrix
